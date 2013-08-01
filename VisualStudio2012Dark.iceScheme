@@ -209,7 +209,7 @@
     {
       "name": "CssImportantFormatDefinition",
       "foreground": "#FFC8C8C8",
-      "background": "#44D0BA4D"
+      "background": null
     },
     {
       "name": "CssStringFormatDefinition",
