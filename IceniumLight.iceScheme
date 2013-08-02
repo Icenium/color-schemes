@@ -1,0 +1,300 @@
+{
+  "name": "IceniumLight",
+  "definitions": [
+    {
+      "name": "ReadUsageFormatDefinition",
+      "foreground": "#FF161616",
+      "background": "#FFADE4F0"
+    },
+    {
+      "name": "WarningFormatDefinition",
+      "foreground": "#FF008000",
+      "background": null
+    },
+    {
+      "name": "ErrorFormatDefinition",
+      "foreground": "#FFFF0000",
+      "background": null
+    },
+    {
+      "name": "WriteUsageFormatDefinition",
+      "foreground": "#FF161616",
+      "background": "#FFFFC8D8"
+    },
+    {
+      "name": "Default",
+      "foreground": "#FF000000",
+      "background": "#FFF5F5F5"
+    },
+    {
+      "name": "CppCommentFormatDefinition",
+      "foreground": "#FF3B6E0B",
+      "background": null
+    },
+    {
+      "name": "CppDataTypeFormatDefinition",
+      "foreground": "#FF3367AF",
+      "background": null
+    },
+    {
+      "name": "CppFunctionFormatDefinition",
+      "foreground": "#FF155049",
+      "background": null
+    },
+    {
+      "name": "CppKeywordFormatDefinition",
+      "foreground": "#FF3367AF",
+      "background": null
+    },
+    {
+      "name": "CppLiteralFormatDefinition",
+      "foreground": "#FF823125",
+      "background": null
+    },
+    {
+      "name": "CppPreprocessorDirectiveFormatDefinition",
+      "foreground": "#FF3367AF",
+      "background": null
+    },
+    {
+      "name": "CssPseudoSelectorFormatDefinition",
+      "foreground": "#FFE29F96",
+      "background": null
+    },
+    {
+      "name": "CssNumberFormatDefinition",
+      "foreground": "#FF3367AF",
+      "background": null
+    },
+    {
+      "name": "CssDimensionFormatDefinition",
+      "foreground": "#FF6CB1D5",
+      "background": null
+    },
+    {
+      "name": "CssColorHashFormatDefinition",
+      "foreground": "#FF1E7C70",
+      "background": null
+    },
+    {
+      "name": "JavaAnnotationFormatDefinition",
+      "foreground": "#FF808080",
+      "background": null
+    },
+    {
+      "name": "JavaCommentFormatDefinition",
+      "foreground": "#FF3B6E0B",
+      "background": null
+    },
+    {
+      "name": "JavaKeywordFormatDefinition",
+      "foreground": "#FF3367AF",
+      "background": null
+    },
+    {
+      "name": "JavaLiteralFormatDefinition",
+      "foreground": "#FF823125",
+      "background": null
+    },
+    {
+      "name": "ObjectiveCCommentFormatDefinition",
+      "foreground": "#FF3B6E0B",
+      "background": null
+    },
+    {
+      "name": "ObjectiveCCompilerDirectiveFormatDefinition",
+      "foreground": "#FF3367AF",
+      "background": null
+    },
+    {
+      "name": "ObjectiveCDataTypeFormatDefinition",
+      "foreground": "#FF3367AF",
+      "background": null
+    },
+    {
+      "name": "ObjectiveCKeywordFormatDefinition",
+      "foreground": "#FF3367AF",
+      "background": null
+    },
+    {
+      "name": "ObjectiveCLiteralFormatDefinition",
+      "foreground": "#FF823125",
+      "background": null
+    },
+    {
+      "name": "ObjectiveCPreprocessorDirectiveFormatDefinition",
+      "foreground": "#FF3367AF",
+      "background": null
+    },
+    {
+      "name": "CommentFormatDefinition",
+      "foreground": "#FF3B6E0B",
+      "background": null
+    },
+    {
+      "name": "ConstantFormatDefinition",
+      "foreground": "#FF800080",
+      "background": null
+    },
+    {
+      "name": "TypeFormatDefinition",
+      "foreground": "#FF0071BB",
+      "background": null
+    },
+    {
+      "name": "ParameterFormatDefinition",
+      "foreground": "#FFC30000",
+      "background": null
+    },
+    {
+      "name": "NamespaceFormatDefinition",
+      "foreground": "#FF0071BB",
+      "background": null
+    },
+    {
+      "name": "MethodFormatDefinition",
+      "foreground": "#FF155049",
+      "background": null
+    },
+    {
+      "name": "LocalVariableFormatDefinition",
+      "foreground": "#FF494949",
+      "background": null
+    },
+    {
+      "name": "ExtensionMethodFormatDefinition",
+      "foreground": "#FF1E7C70",
+      "background": null
+    },
+    {
+      "name": "EventFormatDefinition",
+      "foreground": "#FFE83FE5",
+      "background": null
+    },
+    {
+      "name": "FieldsFormatDefinition",
+      "foreground": "#FF9B5F9B",
+      "background": null
+    },
+    {
+      "name": "XmlServerSideCodeFormatDefinition",
+      "foreground": "#FF000000",
+      "background": "#44D0BA4D"
+    },
+    {
+      "name": "JavaScriptLiteralFormatDefinition",
+      "foreground": "#FF823125",
+      "background": null
+    },
+    {
+      "name": "JavaScriptKeywordFormatDefinition",
+      "foreground": "#FF3367AF",
+      "background": null
+    },
+    {
+      "name": "JavaScriptCommentFormatDefinition",
+      "foreground": "#FF3B6E0B",
+      "background": null
+    },
+    {
+      "name": "CssCommentFormatDefinition",
+      "foreground": "#FF3B6E0B",
+      "background": null
+    },
+    {
+      "name": "CssKeywordFormatDefinition",
+      "foreground": "#FF474747",
+      "background": null
+    },
+    {
+      "name": "CssImportantFormatDefinition",
+      "foreground": "#FF000000",
+      "background": "#44D0BA4D"
+    },
+    {
+      "name": "CssStringFormatDefinition",
+      "foreground": "#FFC88134",
+      "background": null
+    },
+    {
+      "name": "CssSelectorFormatDefinition",
+      "foreground": "#FF823125",
+      "background": null
+    },
+    {
+      "name": "CssPropertyValueFormatDefinition",
+      "foreground": "#FF3367AF",
+      "background": null
+    },
+    {
+      "name": "CssPropertyNameFormatDefinition",
+      "foreground": "#FFCF5A1F",
+      "background": null
+    },
+    {
+      "name": "XmlCDataSectionFormatDefinition",
+      "foreground": "#FF808080",
+      "background": null
+    },
+    {
+      "name": "XmlAttributeValueFormatDefinition",
+      "foreground": "#FF3367AF",
+      "background": null
+    },
+    {
+      "name": "XmlAttributeQuotesFormatDefinition",
+      "foreground": "#FF000000",
+      "background": null
+    },
+    {
+      "name": "XmlAttributeNameFormatDefinition",
+      "foreground": "#FFCF5A1F",
+      "background": null
+    },
+    {
+      "name": "XmlTagNameFormatDefinition",
+      "foreground": "#FF911E0D",
+      "background": null
+    },
+    {
+      "name": "XmlCommentFormatDefinition",
+      "foreground": "#FF3B6E0B",
+      "background": null
+    },
+    {
+      "name": "XmlDelimiterFormatDefinition",
+      "foreground": "#FF7C7C7C",
+      "background": null
+    },
+    {
+      "name": "ExcludedCodeFormatDefinition",
+      "foreground": "#FF808080",
+      "background": null
+    },
+    {
+      "name": "PreprocessorKeywordFormatDefinition",
+      "foreground": "#FF0000FF",
+      "background": null
+    },
+    {
+      "name": "LiteralFormatDefinition",
+      "foreground": "#FFA31515",
+      "background": null
+    },
+    {
+      "name": "KeywordFormatDefinition",
+      "foreground": "#FF3367AF",
+      "background": null
+    },
+    {
+      "name": "ChainingFormatDefinition",
+      "foreground": "#FFA9A9A9",
+      "background": null
+    },
+    {
+      "name": "FindFormatDefinition",
+      "foreground": "#FF161616",
+      "background": "#33FFFF00"
+    }
+  ]
+}
