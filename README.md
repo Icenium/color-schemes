@@ -5,7 +5,7 @@ A collection of color schemes for the code editor in Icenium Graphite
 
 In Icenium Graphite, you can personalize your code editor with custom color schemes.
 
-# How to import a color scheme
+## How to import a color scheme in Icenium Graphite
 
 1. Download the color scheme.<br/>Make sure to preserve the file format. Icenium Graphite accepts color schemes in the `iceScheme` file format only.
 1. Run Icenium Graphite.
